@@ -2,8 +2,8 @@
 A collection of scripts for the 1st part of the single cell data analysis course
 # Content of repository
 
-| File    | Description |
+| **File**    |**Description** |
 | -------- | ------- |
-| January  | $250    |
+|Slurm script 1 | this script uses STARs to make an index?    |
 | February | $80     |
 | March    | $420    |
